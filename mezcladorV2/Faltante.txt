@@ -1,2 +1,0 @@
-mostrar duracion de audio
-impedir audios repetidos
